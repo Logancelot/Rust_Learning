@@ -1,0 +1,9 @@
+[package]
+name = "lana_vault"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes-gcm = "0.10.3"
+rusqlite = "0.39.0"
+serde = "1.0.228"
